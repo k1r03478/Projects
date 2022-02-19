@@ -1,2 +1,2 @@
 # Projects
-small projects based on Solidity
+Some projects based on Solidity
